@@ -2,7 +2,7 @@
 //  RockPaperScissorsTrainerApp.swift
 //  RockPaperScissorsTrainer
 //
-//  Created by JK855T on 6/7/22.
+//  Created by Jordan Kramer on 6/7/22.
 //
 
 import SwiftUI
